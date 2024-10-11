@@ -1,0 +1,4 @@
+Name, ID, Add, GPA
+Bang/1/haiphong/4.0
+hung/2/thanhhoa/4.0
+Duc/3/bacgiang/3.5
